@@ -5,7 +5,7 @@
 
 [Hongwen Zhang](https://github.com/HongwenZhang) · [Siyou Lin](https://jsnln.github.io/) · [Ruizhi Shao](https://dsaurus.github.io/saurus) · [Yuxiang Zhang](https://zhangyux15.github.io) · [Zerong Zheng](https://zhengzerong.github.io/) · [Han Huang]() · [Yandong Guo]() · [Yebin Liu](https://www.liuyebin.com)
 
-### [Project Page](https://www.liuyebin.com/closet) | [Paper (coming)]()
+### [Project Page](https://www.liuyebin.com/closet) | [Dataset](https://github.com/HongwenZhang/THuman-CloSET) | [Paper (coming)]()
 
 </div>
 
